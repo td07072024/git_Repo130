@@ -1,0 +1,12 @@
+Extant
+Image	Scientific name	Common name	Distribution
+	Alligator mississippiensis	American alligator	the Southeastern United States
+	Alligator sinensis	Chinese alligator	eastern China
+Extinct
+Alligator hailensis
+Alligator mcgrewi
+Alligator mefferdi
+Alligator munensis
+Alligator olseni
+Alligator prenasalis
+Alligator thomsoni
